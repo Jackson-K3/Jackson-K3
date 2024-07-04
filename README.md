@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kenita! <br/><a href="https://www.linkedin.com/in/kenita-jackson-bb6127265//">Cybersecurity Professional</a>
+<h1>Hi, I'm Kenita! <br/><a href="https://www.linkedin.com/in/kenita-jackson-bb6127265//">Software Development Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
