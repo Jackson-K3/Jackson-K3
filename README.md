@@ -4,9 +4,6 @@
 
 
 
-<h2>📄 Certifications</h2>
-
-
 
 <h2> 🤳 Connect with me:</h2>
 
